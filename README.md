@@ -1,0 +1,3 @@
+Mobile first
+
+Adaptive layout
